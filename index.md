@@ -12,11 +12,11 @@ I have broad interests in machine learning, computer vision and computer graphic
 [Dec. 2022 – May. 2023] Exchange Student at College of Engineering, NTU Singapore
 
 ## Awards
-Second Prize of Mathematics Competition （Shijiazhuang, Hebei Province, China, 2018）
+Second Prize of Mathematics Competition (Shijiazhuang, Hebei Province, China, 2018）
 
-Dean’s List （2019）
+Dean’s List (2019）
 
-President’s Honor Roll （2020 & 2021 & 2022）
+President’s Honor Roll (2020 & 2021 & 2022）
 
 Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at McGill, 2020)
 
