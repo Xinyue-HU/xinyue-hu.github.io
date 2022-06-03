@@ -47,26 +47,25 @@ HKSAR Talent Development Scholarship (2022)
 [Jun. 2020 - Jul. 2020] Research Helper at Department of Physics, Hong Kong Baptist University
 ```markdown
 Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
-
 Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
 ```
 [Jun. 2021 - Jul. 2021] Research Helper at Department of Computer Science, Hong Kong Baptist University
 ```markdown
-Supervisor: Prof. YUEN, Pong Chi</font>
-
+Supervisor: Prof. YUEN, Pong Chi
 Topic: CT Image Processing and Information Extraction of Pathology Report
 ```
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 ```markdown
 Supervisor: Dr. HAN, Bo
-
 Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection
 ```
 
 ## Development Projects
 ### MiniCAML (a DIY Programming Language)
 ```markdown
-Implemented a programming language called MiniCAML in OCaml. Available functionalities such as free variables, substitution, evaluation, type checking, and type inference. MiniCAML has been extended to n-ary function abstraction, application, and recursion.
+Implemented a programming language called MiniCAML in OCaml. 
+Available functionalities such as free variables, substitution, evaluation, type checking, and type inference. 
+MiniCAML has been extended to n-ary function abstraction, application, and recursion.
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
