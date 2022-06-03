@@ -85,7 +85,7 @@ Processing is a graphical library and IDE built for the art and visual design. I
 
 ## Selected Courses
 ### CS Courses:  
-Course|Grade|Course|Grade
+
 -|-|-|-
 Facets of Computing | A | Computer Organization | A 
 Problem Solving using Object Oriented Programming | A- | Data Structures and Algorithms | A 
@@ -96,11 +96,11 @@ Data Mining and Knowledge Discovery | A |Distributed and Cloud Computing | A-
 Software Design, Development and Testing | A- | Information Security | A
 
 ### MATH Courses:
-Course|Grade|Course|Grade
+
 -|-|-|-
 Introduction to Mathematics and Statistics |DT| Algorithmic Life |DT 
 Discrete Mathematics |A| Linear Algebra |A
-Calculus I |A| Probability, and Statistics for Computer Science|A
+Calculus I |A| Probability and Statistics for Computer Science|A
 Mathematics of Compound Interest |A | Calculus II |A- 
 
 *Note: DT means A level
