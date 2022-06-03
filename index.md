@@ -22,7 +22,7 @@ Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at M
 
 Sir Tseng Chi Lu Scholarship (2021)
 
-C.V. Starr Scholarship Fund (2021)
+C.V. Starr Scholarship Fund (2021 & 2022)
 
 Providence Foundation Bursary for Mainland Students (2021)
 
@@ -34,9 +34,9 @@ HKBU Exchange Sponsorship (2022)
 
 Albert and Mabel Chan Exchange Scholarship (2022)
 
-C.V. Starr Scholarship Fund (2022)
-
 HKSAR Talent Development Scholarship (2022)
+
+*Total amount: 265,000 HKD
 
 ## Extra-curricular achievement
 [Apr. 2020 - Dec. 2022] Vice-caption of HKBU Mainland Football Club
