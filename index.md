@@ -36,7 +36,7 @@ Albert and Mabel Chan Exchange Scholarship (2022)
 
 HKSAR Talent Development Scholarship (2022)
 
-*Total amount: 265,000 HKD
+*Total amount awarded: 265,000 HKD
 
 ## Extra-curricular achievement
 [Apr. 2020 - Dec. 2022] Vice-caption of HKBU Mainland Football Club
