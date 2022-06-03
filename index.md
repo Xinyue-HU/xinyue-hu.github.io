@@ -48,14 +48,14 @@ HKSAR Talent Development Scholarship (2022)
 
 Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
 
-Topic: **Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.**
+Topic: **Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.**  
 
 
 [Jun. 2021 - Jul. 2021] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
 Supervisor: Prof. YUEN, Pong Chi
 
-Topic: **CT Image Processing and Information Extraction of Pathology Report**
+Topic: **CT Image Processing and Information Extraction of Pathology Report**  
 
 
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
@@ -81,7 +81,7 @@ We designed and implemented a multi-threads message passing framework, and divid
 An interactive email application achieves secure communication through symmetric encryption, digital signature and authentication. The program allows multiple users and attackers to join.
 
 ### Shooting Game Using Processing IDE
-Processing is a graphical library and IDE built for the art and visual design. I referred to the game ”The Binding of Isaac” and developed a Chinoiserie shooting game using Processing. During each game phase, the enemy would move in a semi-random way and periodically shoot bullets towards the player, the player need to dodge attack and take down the enemy along the way.
+Processing is a graphical library and IDE built for the art and visual design. I referred to the game 'The Binding of Isaac' and developed a Chinoiserie shooting game using Processing. During each game phase, the enemy would move in a semi-random way and periodically shoot bullets towards the player, the player need to dodge attack and take down the enemy along the way.
 
 ## Selected Courses
 ### CS Courses:  
@@ -98,10 +98,10 @@ Software Design, Development and Testing | A- | Information Security | A
 ### MATH Courses:
 
 -|-|-|-
-Intro to Mathematics and Statistics |DT| Introduction to MATLAB |DT 
-Discrete Mathematics |A| Linear Algebra |A
-Calculus I |A| Probability and Statistics for CS|A
-Mathematics of Compound Interest |A | Calculus II |A- 
+Intro to Mathematics and Statistics | DT | Introduction to MATLAB | DT 
+Discrete Mathematics | A | Linear Algebra |A
+Calculus I | A | Probability and Statistics for CS | A
+Mathematics of Compound Interest | A | Calculus II | A- 
 
 *Note: DT means A level
 
@@ -114,4 +114,4 @@ GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by
 ## Programming Skills
 Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
 
-Tools: Pytorch, Threejs, AWS, Hadoop, LaTeX
+Tools: Pytorch, Tensorflow, Threejs, AWS, Hadoop, LaTeX
