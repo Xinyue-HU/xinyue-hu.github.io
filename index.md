@@ -98,4 +98,4 @@ GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by
 
 ## Programming Skills
 Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
-Tools: Pytorch, Threejs, AWS, Hadoop
+Tools: Pytorch, Threejs, AWS, Hadoop, LaTeX
