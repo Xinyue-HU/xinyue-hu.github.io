@@ -46,7 +46,7 @@ HKSAR Talent Development Scholarship (2022)
 ## Research experience
 [Jun. 2020 - Jul. 2020] Research Helper at Department of Physics, Hong Kong Baptist University
 
-Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
+<font size=4>Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang</font>
 
 Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
 
