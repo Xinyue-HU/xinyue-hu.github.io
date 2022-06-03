@@ -100,8 +100,9 @@ Course|Grade|Course|Grade
 -|-|-|-
 Introduction to Mathematics and Statistics |DT| Algorithmic Life |DT 
 Discrete Mathematics |A| Linear Algebra |A
-Calculus I |A| Calculus, Probability, and Statistics for Computer Science|A
+Calculus I |A| Probability, and Statistics for Computer Science|A
 Mathematics of Compound Interest |A | Calculus II |A- 
+
 *Note: DT means A level
 
 ### Other Interesting Courses:
