@@ -1,11 +1,14 @@
 ## About
 
-I am a third year undergraduate student in computer science at Hong Kong Baptist University.
+I am currently a third-year undergraduate student in computer science at Hong Kong Baptist University.
 I have broad interests in machine learning, computer vision and computer graphics. 
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Sep. 2019 – Jun. 2023] BSc (Hons) in Computer Science, Minor in Applied Math, Hong Kong Baptist University
+[Aug. 2021 – Dec. 2021] Visiting Student at School of Computer Science, McGill University
+[Dec. 2022 – May. 2023] Exchange Student at College of Engineering, Nanyang Technological University
+
 
 ```markdown
 Syntax highlighted code block
