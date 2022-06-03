@@ -50,11 +50,13 @@ Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
 
 Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
 
+
 [Jun. 2021 - Jul. 2021] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
 Supervisor: Prof. YUEN, Pong Chi
 
 Topic: CT Image Processing and Information Extraction of Pathology Report
+
 
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
@@ -71,6 +73,16 @@ GINI is an open-source toolkit developed by McGill University for creating virtu
 
 ### Interactive 3D Games Development
 We developed two 3D games using Threejs. 1. A car drives on a rotating planet, and the main goal is to avoid hitting trees, which are randomly generated on the planet. 2. A helicopter can move in the 3D space freely. We used the Perlin noise to randomly create the topography (infinite and never repeat), including trees, mountains, rivers and cloud. We used Gerstner wave function to simulate water fluctuations. Energy decreases with flight time, and the aviator needs to search for randomly generated energy balls to keep the helicopter flying. We added seasonal effects and music to both games.
+
+### Smart Locker Controlling System
+We designed and implemented a multi-threads message passing framework, and divided the real-world smart locker into four parts: octopus card reader, barcode reader, server, touch screen and locker. All subsystems communicate with each other through the central controller purely by message passing. We adopted MVC design pattern: each subsystem has a hardware emulator, a driver, a controller and a display.
+
+### Secure Email Communication System
+An interactive email application achieves secure communication through symmetric encryption, digital signature and authentication. The program allows multiple users and attackers to join.
+
+### Shooting Game Using Processing IDE
+Processing is a graphical library and IDE built for the art and visual design. I referred to the game ”The Binding of Isaac” and developed a Chinoiserie shooting game using Processing. During each game phase, the enemy would move in a semi-random way and periodically shoot bullets towards the player, the player need to dodge attack and take down the enemy along the way.
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
