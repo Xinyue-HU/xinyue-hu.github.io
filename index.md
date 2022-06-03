@@ -14,9 +14,9 @@ I have broad interests in machine learning, computer vision and computer graphic
 ## Awards
 Second Prize of Mathematics Competition （Shijiazhuang, Hebei Province, China, 2018）
 
-Dean’s List （Year1 Semester1, 2019）
+Dean’s List （2019）
 
-President’s Honor Roll （Year1 Semester2, 2020; Year2 Semester1, 2020; Year2 Semester2, 2021; Year3 Semester2, 2022）
+President’s Honor Roll （2020 & 2021 & 2022）
 
 Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at McGill University, 2020)
 
