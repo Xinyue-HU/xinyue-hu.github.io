@@ -12,7 +12,19 @@ I have broad interests in machine learning, computer vision and computer graphic
 [Dec. 2022 – May. 2023] Exchange Student at College of Engineering, NTU Singapore
 
 ## Awards
-<p align="left">Second Prize of Mathematics Competition</p> <p align="right">Shijiazhuang, Hebei Province, China, 2018</p>
+Second Prize of Mathematics Competition （Shijiazhuang, Hebei Province, China, 2018）
+Dean’s List （Year1 Semester1, 2019）
+President’s Honor Roll （Year1 Semester2, 2020; Year2 Semester1, 2020; Year2 Semester2, 2021; Year3 Semester2, 2022）
+Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at McGill University, 2020)
+Sir Tseng Chi Lu Scholarship (2021)
+C.V. Starr Scholarship Fund (2021)
+Providence Foundation Bursary for Mainland Students (2021)
+Outstanding Student Scholarship (2021)
+Summer Undergraduate Research Fellowship (2021 & 2022)
+HKBU Exchange Sponsorship (2022)
+Albert and Mabel Chan Exchange Scholarship (2022)
+C.V. Starr Scholarship Fund (2022)
+HKSAR Talent Development Scholarship (2022)
 
 ```markdown
 Syntax highlighted code block
