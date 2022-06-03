@@ -46,23 +46,23 @@ HKSAR Talent Development Scholarship (2022)
 ## Research experience
 [Jun. 2020 - Jul. 2020] Research Helper at Department of Physics, Hong Kong Baptist University
 
-<font color=#ffa500>Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang</font>
+Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
 
-<font color=#ffa500>Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.</font>
+Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
 
 
 [Jun. 2021 - Jul. 2021] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
-<font color=#ffa500>Supervisor: Prof. YUEN, Pong Chi</font>
+Supervisor: Prof. YUEN, Pong Chi
 
-<font color=#ffa500>Topic: CT Image Processing and Information Extraction of Pathology Report</font>
+Topic: CT Image Processing and Information Extraction of Pathology Report
 
 
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
-<font color=#ffa500>Supervisor: Dr. HAN, Bo</font>
+Supervisor: Dr. HAN, Bo
 
-<font color=#ffa500>Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection</font>
+Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection
 
 ## Development Projects
 ### MiniCAML (a DIY Programming Language)
