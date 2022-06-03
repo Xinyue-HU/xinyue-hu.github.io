@@ -62,25 +62,10 @@ HKSAR Talent Development Scholarship (2022)
 
 <font size=3>Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection</font>
 
-
-
-
+## Development Projects
+### MiniCAML (a DIY Programming Language)
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Implemented a programming language called MiniCAML in OCaml. Available functionalities such as free variables, substitution, evaluation, type checking, and type inference. MiniCAML has been extended to n-ary function abstraction, application, and recursion.
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
