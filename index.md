@@ -12,7 +12,7 @@ I have broad interests in machine learning, computer vision and computer graphic
 [Dec. 2022 – May. 2023] Exchange Student at College of Engineering, NTU Singapore
 
 ## Awards
-Second Prize of Mathematics Competition in Shijiazhuang, Hebei Province, China, 2018
+Second Prize of Mathematics Competition <p align="right">Shijiazhuang, Hebei Province, China, 2018</p>
 
 ```markdown
 Syntax highlighted code block
