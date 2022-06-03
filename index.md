@@ -6,9 +6,11 @@ I have broad interests in machine learning, computer vision and computer graphic
 ## Education
 
 [Sep. 2019 – Jun. 2023] BSc (Hons) in Computer Science, Minor in Applied Math, HKBU
+
 GPA: 3.84/4.00
 
 [Aug. 2021 – Dec. 2021] Visiting Student at School of Computer Science, McGill University
+
 GPA: 3.83/4.00
 
 [Dec. 2022 – May. 2023] Exchange Student at College of Engineering, NTU Singapore
