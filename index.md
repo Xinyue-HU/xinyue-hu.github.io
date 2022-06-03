@@ -97,5 +97,5 @@ Introduction to Physics (A), Introduction to Chemistry (A), Introduction to Biol
 GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by Prof. Dan Boneh; Machine Learning by Prof. Andrew Ng; CS231n: Deep Learning for Computer Vision by Prof. Fei-Fei Li; CS224n: Natural Language Processing with Deep Learning by Prof. Christopher Manning
 
 ## Programming Skills
-### Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
-### Tools: Pytorch, Threejs, AWS, Hadoop
+Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
+Tools: Pytorch, Threejs, AWS, Hadoop
