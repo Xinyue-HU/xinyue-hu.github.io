@@ -7,12 +7,12 @@ I have broad interests in machine learning, computer vision and computer graphic
 
 [Sep. 2019 – Jun. 2023] BSc (Hons) in Computer Science, Minor in Applied Math, HKBU (GPA: 3.84/4.00)
 
-[Aug. 2021 – Dec. 2021] Visiting Student at School of Computer Science, McGill University (GPA: 3.83/4.00)
+[Aug. 2021 – Dec. 2021] Visiting Student at School of Computer Science, McGill (GPA: 3.83/4.00)
 
 [Dec. 2022 – May. 2023] Exchange Student at College of Engineering, NTU Singapore
 
 ## Awards
-Second Prize of Mathematics Competition <p align="right">Shijiazhuang, Hebei Province, China, 2018</p>
+<p align="left">Second Prize of Mathematics Competition</p> <p align="right">Shijiazhuang, Hebei Province, China, 2018</p>
 
 ```markdown
 Syntax highlighted code block
