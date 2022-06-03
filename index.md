@@ -83,9 +83,19 @@ An interactive email application achieves secure communication through symmetric
 ### Shooting Game Using Processing IDE
 Processing is a graphical library and IDE built for the art and visual design. I referred to the game ”The Binding of Isaac” and developed a Chinoiserie shooting game using Processing. During each game phase, the enemy would move in a semi-random way and periodically shoot bullets towards the player, the player need to dodge attack and take down the enemy along the way.
 
+## Selected Courses
+### CS Courses:  
+Facets of Computing (A), Computer Organization (A), Problem Solving using Object Oriented Programming (A-), Data Structures and Algorithms (A), Database Management (A), Operating Systems (A), Programming Languages and Paradigms (A), Algorithm Design (A), Computer Network (A), Interactive Computer Graphics (A), Data Mining and Knowledge Discovery (A), Distributed and Cloud Computing (A-), Software Design, Development and Testing (A-), Information Security (A)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### MATH Courses:
+Introduction to Mathematics and Statistics (DT), Algorithmic Life (DT), Discrete Mathematics (A), Linear Algebra (A), Calculus I (A), Calculus, Probability, and Statistics for Computer Science (A), Mathematics of Compound Interest (A), Calculus II (A-) *Note: DT means A level
 
-### Jekyll Themes
+### Other Interesting Courses:
+Introduction to Physics (A), Introduction to Chemistry (A), Introduction to Biology (A-), Financial Management (A-), Understanding Dreams (A), Astronomy for the 21st Century (A), Towards a Moral Economy (A-), Global China in the Modern Age (A), When Traditional Tai Chi Meets Modern Health and Fitness (A)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xinyue-HU/Xinyue-HU.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Online Courses:
+GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by Prof. Dan Boneh; Machine Learning by Prof. Andrew Ng; CS231n: Deep Learning for Computer Vision by Prof. Fei-Fei Li; CS224n: Natural Language Processing with Deep Learning by Prof. Christopher Manning
+
+## Programming Skills
+### Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
+### Tools: Pytorch, Threejs, AWS, Hadoop
