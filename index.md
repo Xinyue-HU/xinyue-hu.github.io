@@ -18,7 +18,7 @@ Dean’s List （2019）
 
 President’s Honor Roll （2020 & 2021 & 2022）
 
-Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at McGill University, 2020)
+Full Scholarship Nomination by Department and Faculty (Exchange Scholarship at McGill, 2020)
 
 Sir Tseng Chi Lu Scholarship (2021)
 
@@ -37,6 +37,20 @@ Albert and Mabel Chan Exchange Scholarship (2022)
 C.V. Starr Scholarship Fund (2022)
 
 HKSAR Talent Development Scholarship (2022)
+
+## Extra-curricular achievement
+[Apr. 2020 - Dec. 2022] Vice-caption of HKBU Mainland Football Club
+
+[Apr. 2020 - Apr. 2021] External Secretary of HKBU Mountaineering Association
+
+## Research experience
+[Jun. 2020 - Jul. 2020] Research Helper at Department of Physics, Hong Kong Baptist University
+
+Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
+
+Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
+
+
 
 ```markdown
 Syntax highlighted code block
