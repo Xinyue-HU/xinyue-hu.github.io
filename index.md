@@ -85,6 +85,7 @@ Processing is a graphical library and IDE built for the art and visual design. I
 
 ## Selected Courses
 ### CS Courses:  
+course name|grade
 -|-
 Facets of Computing | A
 Computer Organization | A 
