@@ -98,7 +98,7 @@ Software Design, Development and Testing | A- | Information Security | A
 ### MATH Courses:
 
 -|-|-|-
-Intro to Mathematics and Statistics |DT| Algorithmic Life |DT 
+Intro to Mathematics and Statistics |DT| Introduction to MATLAB |DT 
 Discrete Mathematics |A| Linear Algebra |A
 Calculus I |A| Probability and Statistics for CS|A
 Mathematics of Compound Interest |A | Calculus II |A- 
