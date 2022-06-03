@@ -46,23 +46,23 @@ HKSAR Talent Development Scholarship (2022)
 ## Research experience
 [Jun. 2020 - Jul. 2020] Research Helper at Department of Physics, Hong Kong Baptist University
 
-Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang
+<font color=#ffa500>Supervisor: Prof. TANG, Lei Han and Dr. TIAN, Liang</font>
 
-Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.
+<font color=#ffa500>Topic: Modeling of COVID-19 Disease Transmission and Effectiveness of Disease Control Measures in U.S.</font>
 
 
 [Jun. 2021 - Jul. 2021] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
-Supervisor: Prof. YUEN, Pong Chi
+<font color=#ffa500>Supervisor: Prof. YUEN, Pong Chi</font>
 
-Topic: CT Image Processing and Information Extraction of Pathology Report
+<font color=#ffa500>Topic: CT Image Processing and Information Extraction of Pathology Report</font>
 
 
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 
-Supervisor: Dr. HAN, Bo
+<font color=#ffa500>Supervisor: Dr. HAN, Bo</font>
 
-Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection
+<font color=#ffa500>Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection</font>
 
 ## Development Projects
 ### MiniCAML (a DIY Programming Language)
@@ -98,9 +98,9 @@ Software Design, Development and Testing | A- | Information Security | A
 ### MATH Courses:
 
 -|-|-|-
-Introduction to Mathematics and Statistics |DT| Algorithmic Life |DT 
+Intro to Mathematics and Statistics |DT| Algorithmic Life |DT 
 Discrete Mathematics |A| Linear Algebra |A
-Calculus I |A| Probability and Statistics for Computer Science|A
+Calculus I |A| Probability and Statistics for CS|A
 Mathematics of Compound Interest |A | Calculus II |A- 
 
 *Note: DT means A level
