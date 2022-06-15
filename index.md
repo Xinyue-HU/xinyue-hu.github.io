@@ -1,7 +1,7 @@
 ## About
 
 I am currently a third-year undergraduate student in computer science at Hong Kong Baptist University.
-I have broad interests in machine learning, computer vision and computer graphics. 
+I have broad interests in machine learning and data mining.
 
 ## Education
 
@@ -64,13 +64,13 @@ Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribu
 ### MiniCAML (a DIY Programming Language)
 Implemented a programming language called MiniCAML in OCaml. Available functionalities such as free variables, substitution, evaluation, type checking, and type inference. MiniCAML has been extended to n-ary function abstraction, application, and recursion.
 
-### Implement RDP in GINI Router & GINI Router as a VNF
+### Implement RDP in GINI Router & GINI Router as a VNF [group project]
 GINI is an open-source toolkit developed by McGill University for creating virtual network topology. We used S&W algorithm to realize the reliable data transfer on top of UDP in GINI. We also did an investigation on GINI router forwarding path based on the existing document and code to improve GINI router performance in terms of packet processing rate, QoS, vertically scaling and horizontal scaling.
 
-### Interactive 3D Games Development
+### Interactive 3D Games Development [group project]
 We developed two 3D games using Threejs. 1. A car drives on a rotating planet, and the main goal is to avoid hitting trees, which are randomly generated on the planet. 2. A helicopter can move in the 3D space freely. We used the Perlin noise to randomly create the topography (infinite and never repeat), including trees, mountains, rivers and clouds. We used Gerstner wave function to simulate water fluctuations. Energy decreases with flight time, and the aviator needs to search for randomly generated energy balls to keep the helicopter flying. We added seasonal effects and music to both games.
 
-### Smart Locker Controlling System
+### Smart Locker Controlling System [group project]
 We designed and implemented a multi-threads message passing framework, and divided the real-world smart locker into four parts: octopus card reader, barcode reader, server, touch screen and locker. All subsystems communicate with each other through the central controller purely by message passing. We adopted MVC design pattern: each subsystem has a hardware emulator, a driver, a controller and a display.
 
 ### Secure Email Communication System
