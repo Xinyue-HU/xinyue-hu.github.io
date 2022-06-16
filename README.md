@@ -1,3 +1,3 @@
 # Curriculum Vitae
 
-Personal webpage: https://xinyue-hu.github.io/
+Personal webpage: https://xinyue-hu.github.io/Curriculum-Vitae/
