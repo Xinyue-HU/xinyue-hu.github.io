@@ -1,7 +1,7 @@
 ## About
 
 I am currently a third-year undergraduate student in computer science at Hong Kong Baptist University.
-I have broad interests in machine learning and data mining.
+My research interest spans self-supervised representation learning, casual representation learning and optimization.
 
 ## Education
 
