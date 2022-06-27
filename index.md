@@ -1,7 +1,7 @@
 ## About
 
 I am currently a third-year undergraduate student in computer science at Hong Kong Baptist University.
-My research interest spans self-supervised representation learning, casual representation learning and optimization.
+My research interest spans self-supervised representation learning, causal representation learning and optimization.
 
 ## Education
 
