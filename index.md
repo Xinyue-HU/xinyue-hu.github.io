@@ -57,7 +57,7 @@ Topic: CT Image Processing and Information Extraction of Pathology Report
 ```markdown
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 Supervisor: Dr. HAN, Bo
-Topic: Gradient Varience Matching in Contrastive Learning for Out-of-Distribution Detection
+Topic: Gradient Varience Matching in Contrastive Learning for Out-of-Distribution Generalization
 ```
 
 ## Development Projects
