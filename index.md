@@ -57,7 +57,7 @@ Topic: CT Image Processing and Information Extraction of Pathology Report
 ```markdown
 [Jun. 2022 - Aug. 2022] Research Helper at Department of Computer Science, Hong Kong Baptist University
 Supervisor: Dr. HAN, Bo
-Topic: Trustworthy Machine Learning: Representation Learning and Out of Distribution Detection
+Topic: Gradient Varience Matching in Contrastive Learning for Out-of-Distribution Detection
 ```
 
 ## Development Projects
@@ -105,7 +105,7 @@ Mathematics of Compound Interest | A | Calculus II | A-
 Introduction to Physics (A), Introduction to Chemistry (A), Introduction to Biology (A-), Financial Management (A-), Understanding Dreams (A), Astronomy for the 21st Century (A), Towards a Moral Economy (A-), Global China in the Modern Age (A), When Traditional Tai Chi Meets Modern Health and Fitness (A)
 
 ### Online Courses:
-GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by Prof. Dan Boneh; Machine Learning by Prof. Andrew Ng; CS231n: Deep Learning for Computer Vision by Prof. Fei-Fei Li; CS224n: Natural Language Processing with Deep Learning by Prof. Christopher Manning
+GAMES101: Introduction to Computer Graphics by Dr. Lingqi Yan; Cryptography I by Prof. Dan Boneh; Machine Learning by Prof. Andrew Ng; CS231n: Deep Learning for Computer Vision by Prof. Fei-Fei Li; CS224n: Natural Language Processing with Deep Learning by Prof. Christopher Manning; Introduction to Causal Inference by Brady Neal; Geometric Deep Learning by Michael Bronstein
 
 ## Programming Skills
 Languages: Java, OCaml, Python, SQL, Javascript, Matlab, C/C++ 
